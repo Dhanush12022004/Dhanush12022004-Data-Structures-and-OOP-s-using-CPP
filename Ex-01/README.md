@@ -22,6 +22,9 @@ Write a C++ program to display "Welcome to Technical Training " in first line an
 
 ##OUTPUT:-
 
+RESULT:-
+Thus, the C++ Program has been executed successfully.
+
 image
 
 
